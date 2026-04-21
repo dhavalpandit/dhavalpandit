@@ -1,7 +1,7 @@
 # 💫 About Me:
-M.S. CS @ UT Arlington (Dec '25). I build real-time computer vision systems — currently deploying an RFID access-control system (99.7% read accuracy, sub-250ms latency) and a traffic monitoring pipeline tracking 20+ live streams at RAID Lab. Interested in CV, ML infra, and shipping models to production.
+M.S. CS @ UT Arlington (Dec '25). I build real-time computer vision systems currently deploying an RFID access-control system (99.7% read accuracy, sub-250ms latency) and a traffic monitoring pipeline tracking 20+ live streams at RAID Lab. Interested in CV, ML infra, and shipping models to production.
 Recent work: Fleet Vision (vehicle speed detection), RFID Gen2X framework, Stock sentiment transformers
-Open to: full-time AI/ML Engineer, CV Engineer, ML Infra roles — graduating Dec 2025
+Open to: full-time AI/ML Engineer, CV Engineer, ML Infra roles graduating Dec 2025
 
 
 ## 🌐 Socials:
