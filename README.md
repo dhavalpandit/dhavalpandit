@@ -1,5 +1,7 @@
 # 💫 About Me:
-Building and scaling AI-driven applications, backend systems, and cloud infrastructure, with hands-on work in Python, JAVA, C++, CSS, HTML, JavaScript, and production ML pipelines.<br><br>AI/ML projects, backend or mobile applications, cloud infrastructure, and systems that solve real-world problems at scale.<br><br>Breaking into high-impact software and AI engineering roles, system design best practices, and learning from engineers building at scale.<br><br>LLM systems, agentic workflows, cloud reliability, system optimization, and advanced backend architecture.<br><br>AI applications, backend engineering, Android development, system optimization, CI/CD, and taking projects from idea to production.<br><br>I enjoy turning complex technical problems into clean, practical solutions—and I’m always curious about how things work under the hood.
+M.S. CS @ UT Arlington (Dec '25). I build real-time computer vision systems — currently deploying an RFID access-control system (99.7% read accuracy, sub-250ms latency) and a traffic monitoring pipeline tracking 20+ live streams at RAID Lab. Interested in CV, ML infra, and shipping models to production.
+Recent work: Fleet Vision (vehicle speed detection), RFID Gen2X framework, Stock sentiment transformers
+Open to: full-time AI/ML Engineer, CV Engineer, ML Infra roles — graduating Dec 2025
 
 
 ## 🌐 Socials:
