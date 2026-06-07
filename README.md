@@ -1,7 +1,11 @@
 # 💫 About Me:
-M.S. CS @ UT Arlington (Dec '25). I build real-time computer vision systems currently deploying an RFID access-control system (99.7% read accuracy, sub-250ms latency) and a traffic monitoring pipeline tracking 20+ live streams at RAID Lab. Interested in CV, ML infra, and shipping models to production.
-Recent work: Fleet Vision (vehicle speed detection), RFID Gen2X framework, Stock sentiment transformers
-Open to: full-time AI/ML Engineer, CV Engineer, ML Infra roles graduating Dec 2025
+Software Engineer specializing in AI-powered applications, backend systems, and real-time monitoring solutions.
+
+Built RFID-based tracking platforms, computer vision pipelines, and machine learning systems using Python, Flask, PyTorch, SQL, and AWS.
+
+Experienced in designing production-oriented software, data workflows, and intelligent automation systems.
+
+Currently focused on AI, backend engineering, and scalable software development.
 
 
 ## 🌐 Socials:
